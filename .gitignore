@@ -1,0 +1,9 @@
+bin/
+.classpath
+.settings
+.project
+.idea/
+out/
+*.iml
+*.webp
+*.txt
